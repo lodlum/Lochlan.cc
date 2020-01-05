@@ -9,5 +9,6 @@ body {
 }
 
 .welcomeText {
+    padding-bottom: 10%;
     font-size: 40px;
 }
